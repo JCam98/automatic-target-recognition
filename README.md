@@ -1,4 +1,4 @@
-# Capstone Design Project: Automatic Target Recognition and Map Generation
+# Capstone Design Project: Automatic Target Recognition for Search and Rescue Operations
 
 ## Description
 
@@ -285,6 +285,7 @@ will be specific to the Linux OS.
 - Technical Co-Lead: Nicholas Aufiero; @Phart1226
 - Communications Co-Lead: Rohan Wariyar
 - Communications Co-Lead: Preston Hart; @naufiero
+
 
 
 
